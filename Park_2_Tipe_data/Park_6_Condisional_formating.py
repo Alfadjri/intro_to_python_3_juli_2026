@@ -18,6 +18,8 @@ if nilai > 80 :
     print("Selamat Kamu lulus dalam ujian ini!")
 elif nilai > 60 :
     print("Selamat Kamu lulus dalam ujian ini, tapi harus belajar lebih giat lagi!")
+elif nilai > 40 :
+    print("Kamu Harus Remedial, Silahkan Bertemu dengan Guru Kamu !")
 else :
     print("Maaf Kamu tidak lulus dalam ujian ini!")
 
